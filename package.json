@@ -14,7 +14,7 @@
     "firebase": "^5.0.1",
     "history": "^4.7.2",
     "prop-types": "^15.6.2",
-    "react": "^16.3.0",
+    "react": "^16.8.0",
     "react-automata": "^3.0.0",
     "react-dom": "^16.3.0",
     "react-dropzone": "^4.2.8",
